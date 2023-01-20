@@ -1,0 +1,6 @@
+{
+    "require": {
+        "unicframework/csv-parser": "^1.1",
+        "bigcommerce/api": "^3.3"
+    }
+}
